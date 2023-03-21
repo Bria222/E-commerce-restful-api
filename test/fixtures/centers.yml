@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  office: MyString
+  staff: MyString
+  active: MyString
+  external_id: MyString
+  submitted_on: 2022-11-30 08:23:12
+
+two:
+  name: MyString
+  office: MyString
+  staff: MyString
+  active: MyString
+  external_id: MyString
+  submitted_on: 2022-11-30 08:23:12
